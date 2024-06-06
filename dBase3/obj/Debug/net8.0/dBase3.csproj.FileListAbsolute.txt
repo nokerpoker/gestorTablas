@@ -1,0 +1,14 @@
+C:\Users\w_w_w\Desktop\dBase3\dBase3\obj\Debug\net8.0\dBase3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w_w_w\Desktop\dBase3\dBase3\obj\Debug\net8.0\dBase3.AssemblyInfoInputs.cache
+C:\Users\w_w_w\Desktop\dBase3\dBase3\obj\Debug\net8.0\dBase3.AssemblyInfo.cs
+C:\Users\w_w_w\Desktop\dBase3\dBase3\obj\Debug\net8.0\dBase3.csproj.CoreCompileInputs.cache
+C:\Users\w_w_w\Desktop\dBase3\dBase3\bin\Debug\net8.0\dBase3.exe
+C:\Users\w_w_w\Desktop\dBase3\dBase3\bin\Debug\net8.0\dBase3.deps.json
+C:\Users\w_w_w\Desktop\dBase3\dBase3\bin\Debug\net8.0\dBase3.runtimeconfig.json
+C:\Users\w_w_w\Desktop\dBase3\dBase3\bin\Debug\net8.0\dBase3.dll
+C:\Users\w_w_w\Desktop\dBase3\dBase3\bin\Debug\net8.0\dBase3.pdb
+C:\Users\w_w_w\Desktop\dBase3\dBase3\obj\Debug\net8.0\dBase3.dll
+C:\Users\w_w_w\Desktop\dBase3\dBase3\obj\Debug\net8.0\refint\dBase3.dll
+C:\Users\w_w_w\Desktop\dBase3\dBase3\obj\Debug\net8.0\dBase3.pdb
+C:\Users\w_w_w\Desktop\dBase3\dBase3\obj\Debug\net8.0\dBase3.genruntimeconfig.cache
+C:\Users\w_w_w\Desktop\dBase3\dBase3\obj\Debug\net8.0\ref\dBase3.dll
